@@ -1,0 +1,4 @@
+127.0.0.1 - - [20/Apr/2025:02:31:31 +0900] "GET / HTTP/1.1" 404 808
+0:0:0:0:0:0:0:1 - - [20/Apr/2025:02:31:32 +0900] "GET /jwbook/ch04/taglib/taglib_test.jsp HTTP/1.1" 200 103
+0:0:0:0:0:0:0:1 - - [20/Apr/2025:02:31:48 +0900] "GET /jwbook/ch04/taglib/taglib.jsp HTTP/1.1" 200 138
+0:0:0:0:0:0:0:1 - - [20/Apr/2025:02:31:49 +0900] "GET /jwbook/ch04/taglib/taglib.jsp HTTP/1.1" 200 138
