@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77841f78-21d3-4966-8362-289568514eea" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaF.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct10th/prog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct10th/prog11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct10th/third.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct17th/p1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct17th/prog25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct17th/prg30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct17th/prog31.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/1/f0a7bbe4228a0010168df534a2f63850" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/10/c07dbb16238a0010168df534a2f63850" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/11/4048cdaf238a0010168df534a2f63850" beforeDir="false" />
@@ -91,6 +86,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="32GvQBt447wSGYzeEVUflJ2O5is" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -116,12 +114,14 @@
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.Oct10th.prog11.executor": "Run",
     "애플리케이션.p1.executor": "Run",
+    "애플리케이션.prg30.executor": "Run",
     "애플리케이션.prog.executor": "Run",
     "애플리케이션.prog11.executor": "Run",
+    "애플리케이션.prog25.executor": "Run",
     "애플리케이션.third.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.prog25">
+  <component name="RunManager" selected="애플리케이션.prog31">
     <configuration name="Oct10th.prog11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oct10th.prog11" />
       <module name="JavaF" />
@@ -148,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct10th.prog" />
+    <configuration name="prg30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct17th.prg30" />
       <module name="JavaF" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct10th.*" />
+          <option name="PATTERN" value="Oct17th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="third" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct10th.third" />
+    <configuration name="prog31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct17th.prog31" />
       <module name="JavaF" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct10th.*" />
+          <option name="PATTERN" value="Oct17th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.prog31" />
+        <item itemvalue="애플리케이션.prg30" />
         <item itemvalue="애플리케이션.prog25" />
         <item itemvalue="애플리케이션.p1" />
         <item itemvalue="애플리케이션.Oct10th.prog11" />
-        <item itemvalue="애플리케이션.third" />
-        <item itemvalue="애플리케이션.prog" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +219,7 @@
       <workItem from="1760078912357" duration="1241000" />
       <workItem from="1760080160678" duration="19000" />
       <workItem from="1760080195431" duration="2876000" />
-      <workItem from="1760681509632" duration="1392000" />
+      <workItem from="1760681509632" duration="2502000" />
     </task>
     <servers />
   </component>
