@@ -9,6 +9,8 @@ public class prog31 {
     void bark(int times) {
         String sound = "컹컹!";
         System.out.printf("[%s] %s(x%d)\n", name, sound, times);   }
+
+//  여러개의 객체 생성하기
     public static void main(String[] args) {
         prog31 d1 = new prog31();
         prog31 d2 = new prog31();

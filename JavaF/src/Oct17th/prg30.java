@@ -22,5 +22,9 @@ public class prg30 {
         System.out.printf("이름: %s\n", c.name);
         System.out.printf("품종: %s\n", c.breeds);
         System.out.printf("체중: %.2fkg\n", c.weight);
+
+        System.out.println();
+        c.claw();
+        c.meow();
     }
 }
