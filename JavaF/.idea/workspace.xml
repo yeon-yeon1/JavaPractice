@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77841f78-21d3-4966-8362-289568514eea" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/classes/production/JavaF/Oct31th/test5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct31th/test5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/1/f0a7bbe4228a0010168df534a2f63850" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/10/c07dbb16238a0010168df534a2f63850" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/11/4048cdaf238a0010168df534a2f63850" beforeDir="false" />
@@ -50,7 +48,7 @@
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct31th/test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct31th/test5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +227,7 @@
       <workItem from="1760080195431" duration="2876000" />
       <workItem from="1760681509632" duration="7010000" />
       <workItem from="1761274805435" duration="3979000" />
-      <workItem from="1761890984884" duration="5066000" />
+      <workItem from="1761890984884" duration="5096000" />
     </task>
     <servers />
   </component>
