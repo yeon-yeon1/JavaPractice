@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77841f78-21d3-4966-8362-289568514eea" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/file.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/fileRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/fileoutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/prog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/1/f0a7bbe4228a0010168df534a2f63850" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/10/c07dbb16238a0010168df534a2f63850" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/11/4048cdaf238a0010168df534a2f63850" beforeDir="false" />
@@ -55,9 +49,11 @@
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaF/Oct31th/a.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/JavaF/Oct31th/a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaF/Oct31th/b.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/JavaF/Oct31th/b.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaF/Oct31th/test6.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/JavaF/Oct31th/test6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aaa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/aaa.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/JavaF/Final/Nov14th/fileRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/JavaF/Final/Nov14th/fileRead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/JavaF/Final/Nov14th/fileoutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/JavaF/Final/Nov14th/fileoutput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Final/Nov14th/fileRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Final/Nov14th/fileRead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Final/Nov14th/fileoutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Final/Nov14th/fileoutput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -243,7 +239,7 @@
       <workItem from="1760681509632" duration="7010000" />
       <workItem from="1761274805435" duration="3979000" />
       <workItem from="1761890984884" duration="10481000" />
-      <workItem from="1763100233147" duration="6458000" />
+      <workItem from="1763100233147" duration="6947000" />
     </task>
     <servers />
   </component>
@@ -260,16 +256,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Final/Nov14th/fileoutput.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

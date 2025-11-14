@@ -8,7 +8,7 @@ public class fileoutput {
     public static void main(String[] args) throws IOException {
         A a = new A("박자바", "001-007", 777);
         A b = new A("김운영", "002-008", 888);
-        File fi = new File("aaa.txt");                     // File 객체 생성
+        File fi = new File("bbb.txt");                     // File 객체 생성
         fi.createNewFile();
         FileWriter fw = new FileWriter(fi);            //FileWrite 객체 샐성
         fw.write(a.toString() + "\n");
