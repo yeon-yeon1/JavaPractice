@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77841f78-21d3-4966-8362-289568514eea" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Oct31th/test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/file.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/fileRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/fileoutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/prog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/1/f0a7bbe4228a0010168df534a2f63850" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/10/c07dbb16238a0010168df534a2f63850" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/11/4048cdaf238a0010168df534a2f63850" beforeDir="false" />
@@ -52,7 +57,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classes/production/JavaF/Oct31th/a.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/JavaF/Oct31th/a.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classes/production/JavaF/Oct31th/b.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/JavaF/Oct31th/b.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaF/Oct31th/test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/JavaF/Oct31th/test5.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classes/production/JavaF/Oct31th/test6.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/JavaF/Oct31th/test6.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,12 +122,17 @@
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.Oct10th.prog11.executor": "Run",
     "애플리케이션.Reverse.executor": "Run",
+    "애플리케이션.file.executor": "Run",
+    "애플리케이션.fileRead.executor": "Run",
+    "애플리케이션.fileoutput.executor": "Run",
+    "애플리케이션.output.executor": "Run",
     "애플리케이션.p1.executor": "Run",
     "애플리케이션.prg30.executor": "Run",
     "애플리케이션.prog.executor": "Run",
     "애플리케이션.prog11.executor": "Run",
     "애플리케이션.prog25.executor": "Run",
     "애플리케이션.prog31.executor": "Run",
+    "애플리케이션.test.executor": "Run",
     "애플리케이션.test1.executor": "Run",
     "애플리케이션.test2.executor": "Run",
     "애플리케이션.test3.executor": "Run",
@@ -133,13 +142,13 @@
     "애플리케이션.third.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.test6">
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct31th.test2" />
+  <component name="RunManager" selected="애플리케이션.fileRead">
+    <configuration name="file" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.file" />
       <module name="JavaF" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct31th.*" />
+          <option name="PATTERN" value="Final.Nov14th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct31th.test3" />
+    <configuration name="fileRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.fileRead" />
       <module name="JavaF" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct31th.*" />
+          <option name="PATTERN" value="Final.Nov14th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct31th.test4" />
+    <configuration name="fileoutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.fileoutput" />
       <module name="JavaF" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct31th.*" />
+          <option name="PATTERN" value="Final.Nov14th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct31th.test5" />
+    <configuration name="output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.output" />
       <module name="JavaF" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct31th.*" />
+          <option name="PATTERN" value="Final.Nov14th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct31th.test6" />
+    <configuration name="prog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.prog" />
       <module name="JavaF" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct31th.*" />
+          <option name="PATTERN" value="Final.Nov14th.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.test6" />
-        <item itemvalue="애플리케이션.test5" />
-        <item itemvalue="애플리케이션.test4" />
-        <item itemvalue="애플리케이션.test3" />
-        <item itemvalue="애플리케이션.test2" />
+        <item itemvalue="애플리케이션.fileRead" />
+        <item itemvalue="애플리케이션.fileoutput" />
+        <item itemvalue="애플리케이션.output" />
+        <item itemvalue="애플리케이션.prog" />
+        <item itemvalue="애플리케이션.file" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +242,8 @@
       <workItem from="1760080195431" duration="2876000" />
       <workItem from="1760681509632" duration="7010000" />
       <workItem from="1761274805435" duration="3979000" />
-      <workItem from="1761890984884" duration="7428000" />
+      <workItem from="1761890984884" duration="10481000" />
+      <workItem from="1763100233147" duration="6458000" />
     </task>
     <servers />
   </component>
@@ -250,5 +260,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Final/Nov14th/fileoutput.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
