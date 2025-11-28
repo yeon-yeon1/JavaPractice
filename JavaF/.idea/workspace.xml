@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77841f78-21d3-4966-8362-289568514eea" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/ParameterPassG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/abstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/privateGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/protectedSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/setMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/superClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/thisAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/thisClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/1/f0a7bbe4228a0010168df534a2f63850" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/10/c07dbb16238a0010168df534a2f63850" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/11/4048cdaf238a0010168df534a2f63850" beforeDir="false" />
@@ -50,7 +56,6 @@
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,16 +124,21 @@
     "애플리케이션.ParameterPassC.executor": "Run",
     "애플리케이션.ParameterPassG.executor": "Run",
     "애플리케이션.Reverse.executor": "Run",
+    "애플리케이션.abstractClass.executor": "Run",
     "애플리케이션.file.executor": "Run",
     "애플리케이션.fileRead.executor": "Run",
     "애플리케이션.fileoutput.executor": "Run",
     "애플리케이션.output.executor": "Run",
     "애플리케이션.p1.executor": "Run",
     "애플리케이션.prg30.executor": "Run",
+    "애플리케이션.privateGet.executor": "Run",
     "애플리케이션.prog.executor": "Run",
     "애플리케이션.prog11.executor": "Run",
     "애플리케이션.prog25.executor": "Run",
     "애플리케이션.prog31.executor": "Run",
+    "애플리케이션.protectedSuper.executor": "Run",
+    "애플리케이션.setMethod.executor": "Run",
+    "애플리케이션.superClass.executor": "Run",
     "애플리케이션.test.executor": "Run",
     "애플리케이션.test1.executor": "Run",
     "애플리케이션.test2.executor": "Run",
@@ -136,12 +146,14 @@
     "애플리케이션.test4.executor": "Run",
     "애플리케이션.test5.executor": "Run",
     "애플리케이션.test6.executor": "Run",
-    "애플리케이션.third.executor": "Run"
+    "애플리케이션.third.executor": "Run",
+    "애플리케이션.thisAbstractClass.executor": "Run",
+    "애플리케이션.thisClass.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.ParameterPassG">
-    <configuration name="ParameterPass11_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.ParameterPass11_21" />
+  <component name="RunManager" selected="애플리케이션.protectedSuper">
+    <configuration name="privateGet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.privateGet" />
       <module name="JavaF" />
       <extension name="coverage">
         <pattern>
@@ -153,8 +165,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParameterPass2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.ParameterPass2" />
+    <configuration name="protectedSuper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.protectedSuper" />
       <module name="JavaF" />
       <extension name="coverage">
         <pattern>
@@ -166,8 +178,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParameterPassC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.ParameterPassC" />
+    <configuration name="setMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.setMethod" />
       <module name="JavaF" />
       <extension name="coverage">
         <pattern>
@@ -179,8 +191,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParameterPassG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.ParameterPassG" />
+    <configuration name="superClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.superClass" />
       <module name="JavaF" />
       <extension name="coverage">
         <pattern>
@@ -192,8 +204,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fileRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.fileRead" />
+    <configuration name="thisClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.thisClass" />
       <module name="JavaF" />
       <extension name="coverage">
         <pattern>
@@ -207,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.ParameterPassG" />
-        <item itemvalue="애플리케이션.ParameterPassC" />
-        <item itemvalue="애플리케이션.ParameterPass2" />
-        <item itemvalue="애플리케이션.ParameterPass11_21" />
-        <item itemvalue="애플리케이션.fileRead" />
+        <item itemvalue="애플리케이션.protectedSuper" />
+        <item itemvalue="애플리케이션.privateGet" />
+        <item itemvalue="애플리케이션.setMethod" />
+        <item itemvalue="애플리케이션.superClass" />
+        <item itemvalue="애플리케이션.thisClass" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +254,8 @@
       <workItem from="1761890984884" duration="10481000" />
       <workItem from="1763100233147" duration="9045000" />
       <workItem from="1763706458013" duration="2395000" />
-      <workItem from="1763709327295" duration="4372000" />
+      <workItem from="1763709327295" duration="6839000" />
+      <workItem from="1764311178616" duration="6165000" />
     </task>
     <servers />
   </component>
