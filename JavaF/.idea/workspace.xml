@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77841f78-21d3-4966-8362-289568514eea" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/abstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/privateGet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/protectedSuper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/setMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/superClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/thisAbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/thisClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/arrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/interfaceUpcasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/Nov14th/randomNumb.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/1/f0a7bbe4228a0010168df534a2f63850" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/10/c07dbb16238a0010168df534a2f63850" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/11/4048cdaf238a0010168df534a2f63850" beforeDir="false" />
@@ -125,9 +122,11 @@
     "애플리케이션.ParameterPassG.executor": "Run",
     "애플리케이션.Reverse.executor": "Run",
     "애플리케이션.abstractClass.executor": "Run",
+    "애플리케이션.arrayList.executor": "Run",
     "애플리케이션.file.executor": "Run",
     "애플리케이션.fileRead.executor": "Run",
     "애플리케이션.fileoutput.executor": "Run",
+    "애플리케이션.math.executor": "Run",
     "애플리케이션.output.executor": "Run",
     "애플리케이션.p1.executor": "Run",
     "애플리케이션.prg30.executor": "Run",
@@ -137,6 +136,7 @@
     "애플리케이션.prog25.executor": "Run",
     "애플리케이션.prog31.executor": "Run",
     "애플리케이션.protectedSuper.executor": "Run",
+    "애플리케이션.randomNumb.executor": "Run",
     "애플리케이션.setMethod.executor": "Run",
     "애플리케이션.superClass.executor": "Run",
     "애플리케이션.test.executor": "Run",
@@ -151,9 +151,35 @@
     "애플리케이션.thisClass.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.protectedSuper">
-    <configuration name="privateGet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.privateGet" />
+  <component name="RunManager" selected="애플리케이션.interfaceUpcasting">
+    <configuration name="arrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.arrayList" />
+      <module name="JavaF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Final.Nov14th.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="interfaceUpcasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.interfaceUpcasting" />
+      <module name="JavaF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Final.Nov14th.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.math" />
       <module name="JavaF" />
       <extension name="coverage">
         <pattern>
@@ -178,34 +204,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="setMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.setMethod" />
-      <module name="JavaF" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Final.Nov14th.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="superClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.superClass" />
-      <module name="JavaF" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Final.Nov14th.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="thisClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.thisClass" />
+    <configuration name="randomNumb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final.Nov14th.randomNumb" />
       <module name="JavaF" />
       <extension name="coverage">
         <pattern>
@@ -219,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.interfaceUpcasting" />
+        <item itemvalue="애플리케이션.arrayList" />
+        <item itemvalue="애플리케이션.randomNumb" />
+        <item itemvalue="애플리케이션.math" />
         <item itemvalue="애플리케이션.protectedSuper" />
-        <item itemvalue="애플리케이션.privateGet" />
-        <item itemvalue="애플리케이션.setMethod" />
-        <item itemvalue="애플리케이션.superClass" />
-        <item itemvalue="애플리케이션.thisClass" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +255,9 @@
       <workItem from="1763100233147" duration="9045000" />
       <workItem from="1763706458013" duration="2395000" />
       <workItem from="1763709327295" duration="6839000" />
-      <workItem from="1764311178616" duration="6165000" />
+      <workItem from="1764311178616" duration="6193000" />
+      <workItem from="1764883522333" duration="10000" />
+      <workItem from="1764914734593" duration="2952000" />
     </task>
     <servers />
   </component>
